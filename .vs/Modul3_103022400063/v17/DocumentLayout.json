@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{56F433FA-54A1-4907-BC2E-62FF67BD57AD}|Modul3_103022400063\\Modul3_103022400063.csproj|d:\\wild-mane\\modul3_103022400063\\modul3_103022400063\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{56F433FA-54A1-4907-BC2E-62FF67BD57AD}|Modul3_103022400063\\Modul3_103022400063.csproj|solutionrelative:modul3_103022400063\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F433FA-54A1-4907-BC2E-62FF67BD57AD}|Modul3_103022400063\\Modul3_103022400063.csproj|d:\\wild-mane\\modul3_103022400063\\modul3_103022400063\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F433FA-54A1-4907-BC2E-62FF67BD57AD}|Modul3_103022400063\\Modul3_103022400063.csproj|solutionrelative:modul3_103022400063\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Wild-Mane\\Modul3_103022400063\\Modul3_103022400063\\Form1.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400063\\Form1.cs",
+              "ToolTip": "D:\\Wild-Mane\\Modul3_103022400063\\Modul3_103022400063\\Form1.cs",
+              "RelativeToolTip": "Modul3_103022400063\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:54:48.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

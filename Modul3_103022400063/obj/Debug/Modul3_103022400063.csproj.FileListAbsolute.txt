@@ -1,0 +1,11 @@
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\bin\Debug\Modul3_103022400063.exe.config
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\bin\Debug\Modul3_103022400063.exe
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\bin\Debug\Modul3_103022400063.pdb
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.csproj.AssemblyReference.cache
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.Form1.resources
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.Properties.Resources.resources
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.csproj.GenerateResource.cache
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.csproj.CoreCompileInputs.cache
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.exe
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.pdb
+D:\Wild-Mane\Modul3_103022400063\Modul3_103022400063\obj\Debug\Modul3_103022400063.exe.config
